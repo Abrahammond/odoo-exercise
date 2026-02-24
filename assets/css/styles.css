@@ -305,6 +305,9 @@ h1.fs-50 {
 }
 
 @media (min-width: 992px) {
+  nav {
+    border-radius: 10px;
+  }
   .width-50 {
     width: 50%;
   }
