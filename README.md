@@ -13,16 +13,19 @@ Para la primer fase de diseño, realicé un prototipo en Figma tomando como refe
 -  **Fase 2** - Desarrollo de landing page usando Bootstrap v5.3.8 y SCSS.
 -  **Fase 3** -   Agregar el proyecto a un repositorio en github.
 -  **Fase 4** -   Entrega del ejercicio.
+### Landing page en línea
+- El sitio se puede consultar desde la siguiente URL, utilicé Vercel porque es la plataforma que normalmente uso para alojar mis proyectos.
+-  [Ver sitio web](https://odoo-exercise.vercel.app/)
 ## Notes
-- **What do you find good/bad in this mock-up?**
--- I found the tools section somewhat confusing with the way the video component is arranged in the mock-up.
--- I didn't understand why there is a credit card component with purchase history on a site like this.
--- The mock-up design leaves many spaces that could be better utilized with company content.
--- I liked the use of resources in SVG format to be able to manipulate colors from SCSS, in addition to being a more optimal loading of graphic resources.
-- **What would you improve?**
--- I would improve the content distribution and standardize the proportion of buttons, colors, and text weights.
-- **What would you change?**
--- I would change the color palette to be more ad-hoc to the company colors, as well as show a section of projects in which there has been participation using the Odoo platform.
+- ***What do you find good/bad in this mock-up?***
+- I found the tools section somewhat confusing with the way the video component is arranged in the mock-up.
+- I didn't understand why there is a credit card component with purchase history on a site like this.
+- The mock-up design leaves many spaces that could be better utilized with company content.
+- I liked the use of resources in SVG format to be able to manipulate colors from SCSS, in addition to being a more optimal loading of graphic resources.
+- ***What would you improve?***
+- I would improve the content distribution and standardize the proportion of buttons, colors, and text weights.
+- ***What would you change?***
+- I would change the color palette to be more ad-hoc to the company colors, as well as show a section of projects in which there has been participation using the Odoo platform.
 ## Contacto
 - **Correo electrónico**
 - [dcervantes366@gmail.com](mailto:dcervantes366@gmail.com)
